@@ -1,4 +1,5 @@
 ---
-title: Advanced Data Management
+title: MSCR596 - Advanced Data Management in R
 ---
-# advdatamgmt.github.io
+
+[Course Syllabus](syllabus.html)
