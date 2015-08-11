@@ -1,1 +1,0 @@
-# advdatamgmt.github.io
