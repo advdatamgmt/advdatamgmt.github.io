@@ -68,8 +68,10 @@ Prerequisites
 
 Textbook
 --------
-The course will provide all necessarily materials, but the following
-optional textbooks are suggested if you would like a book to supplement:
+The course will provide all necessary materials through the
+[course website, https://advdatamgmt.github.io](http://advdatamgmt.github.io), but the following
+optional books are suggested if you would like a book to supplement
+your studies:
 
 - Free books:
     - [Analysis of Epidemiological Data using R and Epicalc](https://cran.r-project.org/doc/contrib/Epicalc_Book.pdf)
@@ -80,6 +82,9 @@ optional textbooks are suggested if you would like a book to supplement:
     - [R for Dummies](http://www.amazon.com/R-Dummies-Andrie-Vries/dp/1119055806/)
     - [A Beginner's Guide to R](http://www.amazon.com/Beginners-Guide-Use-Alain-Zuur/dp/0387938362/)
 
+There is also an enormous amount of material within the R software and in the
+[CRAN Contributed Documentation, https://cran.r-project.org/other-docs.html](https://cran.r-project.org/other-docs.html)
+where you will find tutorials and other documentation in 20 different languages.
 
 Format
 ------
