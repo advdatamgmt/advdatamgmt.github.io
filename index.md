@@ -8,4 +8,4 @@ title: MSCR596 - Advanced Data Management in R
 
 ## [Slides](https://cdn.rawgit.com/advdatamgmt/slides/1103ce0209f587f857e5dc90e3e09a3059269170/index.html)
 
-## [Exercises](https://cdn.rawgit.com/advdatamgmt/exercises/f8e3ffe8d8d9b7a3334b9554517de9164b42c2a9/html/index.html)
+## [Exercises](https://cdn.rawgit.com/advdatamgmt/exercises/b20982e1975a8d5f56919b58e263abeafc5221a4/html/index.html)
