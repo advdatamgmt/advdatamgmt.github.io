@@ -181,7 +181,7 @@ PROPOSAL DUE</b></li></ul></td></tr>
 	R</td><td><ul><li>non-linear
 	terms</li><li>interactions</li><li>modeling
 	strategy</li><li><b>APPROVED PROPOSAL DUE</b></li></ul></td></tr>
-<tr><td>Nov 16</td><td>NO CLASS - Work on Final Project</td><td></td></tr>
+	<tr><td>Nov 16</td><td colspan="2"><b>NO CLASS - Work on Final Project</b></td></tr>
 <tr><td>Nov 23</td><td colspan="2"><b>NO CLASS - THANKSGIVING</b></td></tr>
 <tr><td>Nov 30</td><td>Catch-up/Review</td><td></td></tr>
 <tr><td>Dec 7</td><td colspan="2"><b>NO CLASS - FINAL PROJECT DUE</b></td></tr>
