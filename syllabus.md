@@ -157,7 +157,7 @@ ul {
 <tr><td>Aug 31</td><td>NO CLASS MEETING - VIDEO - The Care and
 	Feeding of the Realm's Creatures</td><td><ul><li>vectors &
 	factors</li><li>lists & data.frames</li><li>formatting code</li></ul></td></tr>
-<tr><td>Sep 7</td><td>NO CLASS MEETING - VIDEO - Creating New Creatures: Functions</td><td><ul><li>functions</li><li>importing data (csv,
+<tr><td>Sep 7</td><td>Creating New Creatures: Functions</td><td><ul><li>functions</li><li>importing data (csv,
 		Excel)</li></ul></td></tr>
 <tr><td>Sep 14</td><td>Branching Out and Feeling Loopy</td><td><ul><li>branch logic</li><li>loop logic</li></ul></td></tr>
 <tr><td>Sep 21</td><td>Food Prep: Slicing & Dicing Data</td><td><ul><li>concatenation</li><li>merging</li><li>subsetting</li><li>transforming</li></ul></td></tr>
